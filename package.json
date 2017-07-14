@@ -1,0 +1,27 @@
+{
+  "name": "rns",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+     "React-Native",
+     "AsyncStorage",
+     "rns",
+     "localStorage" 
+  ],
+  "devDependencies": {
+    "mocha": ""
+  },
+  "author": "Joursion",
+  "license": "ISC"
+}
